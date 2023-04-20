@@ -10,3 +10,10 @@ isso é um comentário de varias linhas
 print("Olá ",nome," sua idade é ",idade)
 print("Olá {} sua idade é {}".format(nome,idade))
 print(f"Olá {nome} sua idade é {idade}")
+<<<<<<< HEAD
+=======
+
+#Estou no clonado :)
+
+print("Estou no arquivo original")
+>>>>>>> 031ab117c913b18c2f51482d06533781ffff082e
